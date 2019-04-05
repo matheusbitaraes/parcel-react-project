@@ -9,7 +9,7 @@ class App extends Component {
     todos: [
       {
         id: 1,
-        title: "ligar para João",
+        title: "ligar para Joana",
         completed: false
       },
       {
